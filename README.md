@@ -2,5 +2,5 @@
 It's my first experience 
 	| Syntax | Description |
 | ----------- | ----------- |
-| Header | program |
-| Paragraph | puare lal|
+| Header | |
+| Paragraph | |
