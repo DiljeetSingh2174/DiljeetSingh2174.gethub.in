@@ -27,3 +27,14 @@ The COUNT function in Excel Because cell C8 contains the word popcorn, the COUNT
 The MIN and MAX functions in Excel
 
 5) The MAX Function The MAX function returns the highest number in a range. In cell B11, I typed =MAX(B8:E8) and pressed Enter. The highest value in the range is $11,844.
+
+
+
+
+
+Induction program info...
+
+![Screenshot_20240722-112849](https://github.com/user-attachments/assets/f4d9549a-103a-4073-bba0-ed1d8726250f)
+![Screenshot_20240722-112904](https://github.com/user-attachments/assets/21dd2709-c75a-49f0-a66b-7bc5ee49a1a8)
+Hardeep Rai Arvind Dhingra Sehijpalsingh Khangura 
+The 3rd day of the induction program for our new students commenced with lecture series from Dr. HS Rai (Controller of Examination), Dr. Arvind Dhingra (TAC)  and Dr. Parminder Singh (Dean Student Welfare), all the faculty members gave insightful information to newly admitted students of the 2024 batch. 
