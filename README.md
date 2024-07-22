@@ -38,3 +38,8 @@ Induction program info...
 ![Screenshot_20240722-112904](https://github.com/user-attachments/assets/21dd2709-c75a-49f0-a66b-7bc5ee49a1a8)
 Hardeep Rai Arvind Dhingra Sehijpalsingh Khangura 
 The 3rd day of the induction program for our new students commenced with lecture series from Dr. HS Rai (Controller of Examination), Dr. Arvind Dhingra (TAC)  and Dr. Parminder Singh (Dean Student Welfare), all the faculty members gave insightful information to newly admitted students of the 2024 batch. 
+
+
+Day 6 of our Induction Programme was a day of inspiration and growth. We were honored to have Dr. Randhir Singh(Assistant Professor- Physics) deliver an insightful session on GitHub, equipping our students with vital technological skills. Dr. Pyare Lal's(MCH Paediatric Surgery) motivational and inspirational lecture invigorated the audience, encouraging them to embrace challenges with confidence. Dr. Sony Goyal(Founder- MissionCAT) provided clear guidance on setting and achieving future goals, offering practical directions to our students. Pancham Singh's(4-year ME Student) dynamic session on non-verbal communication and motorsport club added a unique layer of learning and engagement.![Screenshot_20240722-113548](https://github.com/user-attachments/assets/f9346f0e-352e-4bed-ac84-bc822d8dceba)
+![Screenshot_20240722-113553](https://github.com/user-attachments/assets/4270bc1c-4fbd-44c6-9032-e30de744ae23)
+![Screenshot_20240722-113606](https://github.com/user-attachments/assets/cb3a826c-80aa-459f-b195-d6b6fabb4760)
